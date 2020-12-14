@@ -1,6 +1,6 @@
 # helloworld
 
-Hello World for Golang
+Simple Project for Golang
 
 ## Simple Command
 
