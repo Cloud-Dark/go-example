@@ -1,4 +1,4 @@
-# helloworld
+# Simple App
 
 Simple Project for Golang
 
